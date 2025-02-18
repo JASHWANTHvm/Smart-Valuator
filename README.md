@@ -1,4 +1,4 @@
-![Screenshot 2025-02-11 190152](https://github.com/user-attachments/assets/12eac5e5-1260-4ab8-8ceb-68ac62583385)# 🏡 House Price Prediction using Machine Learning & Flask
+🏡 House Price Prediction using Machine Learning & Flask
 
 This project predicts house prices based on various features like **location, median income, total rooms, and ocean proximity**. 
 The **Machine Learning model** is built using **Decision Trees and Random Forest**, and the web application is developed using **Flask**.
